@@ -12,7 +12,7 @@ public class MultiTests {
         Multi multi = new Multi();
         int result = multi.multiNumbers(10, 55);
 
-        Assertions.assertEquals(55, result);
+        Assertions.assertEquals(560, result);
     }
 
 
