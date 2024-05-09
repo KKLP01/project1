@@ -1,9 +1,12 @@
 package com.project1;
 
 public class Division {
-    public static void main(String[] args) {
-
-
-
+    public int divideTwoNumber(int a, int b) {
+        return a / b;
     }
+
+
 }
+
+
+
