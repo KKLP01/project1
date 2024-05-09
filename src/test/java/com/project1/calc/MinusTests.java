@@ -1,6 +1,5 @@
-package com.project1;
+package com.project1.calc;
 
-import com.project1.calc.Minus;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
